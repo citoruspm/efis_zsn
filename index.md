@@ -41,7 +41,7 @@
 
 <p align="center">
   <img width="53" height="60" src="https://github.com/citoruspm/efis_zsn/blob/main/avtorizaciya_1.png" [Иконка МП ЕФИС ЗСН]>
-<br><small>Рисунок 1 – Иконка МП ЕФИС ЗСН</small>
+<p>Рисунок 1 – Иконка МП ЕФИС ЗСН</p>
 </p>
 
 <image
