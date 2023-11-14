@@ -41,11 +41,12 @@
 
 <center><image src="/avtorizaciya_1.png" alt="Иконка МП ЕФИС ЗСН"></center>
 
-<center><small>Рисунок 1 – Иконка МП ЕФИС ЗСН</center></small>
+
 
 <p align="center">
-  <img width="53" height="60" src="https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg">
+  <img width="53" height="60" src="https://github.com/citoruspm/efis_zsn/blob/main/avtorizaciya_1.png" [Иконка МП ЕФИС ЗСН]>
 </p>
+<p class="center">Рисунок 1 – Иконка МП ЕФИС ЗСН</p>
 
 2. В окне авторизации (Рисунок 2) при необходимости ознакомиться с информацией о мобильном приложении. Для этого нажать на кнопку |image1|.
 3. В окне авторизации вести данные учетной записи пользователя и нажать на кнопку **Войти**.
