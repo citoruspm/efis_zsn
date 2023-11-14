@@ -39,7 +39,7 @@
 
 1. Нажать на иконку МП ЕФИС ЗСН на экране планшета (Рисунок 1).
 
-<center>![](/avtorizaciya_1.png "Рисунок 1 – Иконка МП ЕФИС ЗСН")</center>
+<center>![111](../avtorizaciya_1.png)</center>
 
 <center><small>Рисунок 1 – Иконка МП ЕФИС ЗСН</center></small>
 
