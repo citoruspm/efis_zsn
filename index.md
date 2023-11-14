@@ -39,7 +39,7 @@
 
 1. Нажать на иконку МП ЕФИС ЗСН на экране планшета (Рисунок 1).
 
-<center>!([https://github.com/citoruspm/efis_zsn/blob/master/avtorizaciya_1.png](https://raw.githubusercontent.com/citoruspm/efis_zsn/main/avtorizaciya_1.png) "Рисунок 1 – Иконка МП ЕФИС ЗСН")</center>
+<center>![https://github.com/citoruspm/efis_zsn/blob/master/avtorizaciya_1.png](https://raw.githubusercontent.com/citoruspm/efis_zsn/main/avtorizaciya_1.png "Рисунок 1 – Иконка МП ЕФИС ЗСН")</center>
 
 <center><small>Рисунок 1 – Иконка МП ЕФИС ЗСН</center></small>
 
